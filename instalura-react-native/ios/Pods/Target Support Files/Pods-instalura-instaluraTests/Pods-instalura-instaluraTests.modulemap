@@ -1,0 +1,6 @@
+module Pods_instalura_instaluraTests {
+  umbrella header "Pods-instalura-instaluraTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

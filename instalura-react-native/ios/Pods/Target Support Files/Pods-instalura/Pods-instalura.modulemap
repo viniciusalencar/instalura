@@ -1,0 +1,6 @@
+module Pods_instalura {
+  umbrella header "Pods-instalura-umbrella.h"
+
+  export *
+  module * { export * }
+}
